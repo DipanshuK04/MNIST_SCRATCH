@@ -12,7 +12,11 @@ Training and Evaluation: The model is trained on the MNIST training data and ass
 
 Results: The model demonstrates strong performance in recognizing handwritten digits with a high degree of precision, making it an excellent foundational project for those interested in deep learning and computer vision.
 
-This project provides a hands-on introduction to neural networks and deep learning using PyTorch, ideal for those seeking practical experience with one of the field’s most prominent datasets.
 
 # RESULTS
+The below graph is of loss ( or error) of neural network vs number of episodes 
 ![Training Graph](Mnist_training_graph.jpeg)
+
+
+The below image is an example of digit recognised by neural network
+![Digit predicted by neural network](Digit_MNIST.jpeg)
